@@ -1,16 +1,20 @@
-### Hi there 👋
+### Howdy! I'm Michael Bassili, aka LaputanMachines 👋
 
-<!--
-**LaputanMachines/LaputanMachines** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm a Programmer, Drummer, Writer, and Game Developer
 
-Here are some ideas to get you started:
+- 😄 Pronouns: He/Him
+- 🔭 I’m currently making games at [@AquinasGames](https://github.com/AquinasGames)
+- 🌱 I’m currently learning [Godot](https://godotengine.org/) and [Golang](https://golang.org/)
+- 👯 I’m looking to collaborate on game development
+- 💬 Ask me about city planning and/or pedestrian-friendly infrastructure
+- ⚡ Fun fact: I taught myself how to play the drums 1 month before performing professionally 
+- 📫 How to reach me: Email (michael@bassi.li) or through social media
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 📕 Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+
+<!-- BLOG-POST-LIST:END -->
+
+<!-- <img align="left" alt="LaputanMachines' Github Stats" src="https://github-readme-stats.vercel.app/api?username=LaputanMachines&show_icons=true&hide_border=true" /> -->
