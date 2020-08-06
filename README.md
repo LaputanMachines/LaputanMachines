@@ -14,7 +14,6 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-
 <!-- BLOG-POST-LIST:END -->
 
 <!-- <img align="left" alt="LaputanMachines' Github Stats" src="https://github-readme-stats.vercel.app/api?username=LaputanMachines&show_icons=true&hide_border=true" /> -->
