@@ -3,7 +3,7 @@
 ## I'm a Programmer, Drummer, Writer, and Game Developer
 
 - 😄 Pronouns: He/Him
-- 🔭 I’m currently making games at [@AquinasGames](https://github.com/AquinasGames)
+- 🔭 I’m currently making games at [Aquinas Games](https://aquinasgames.ca/)
 - 🌱 I’m currently learning [Godot](https://godotengine.org/) and [Golang](https://golang.org/)
 - 👯 I’m looking to collaborate on game development
 - 💬 Ask me about city planning and/or pedestrian-friendly infrastructure
