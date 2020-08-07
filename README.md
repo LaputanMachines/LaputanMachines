@@ -1,3 +1,7 @@
+Howdy! My name is Michael, and I'm many things. I work a day-job as a programmer. I moonlight as a drummer, journalist, and writer. If you want to hire me to do one of these things, shoot me an email! Otherwise, feel free to browse my GitHub profile.
+
+---
+
 ### :man: Personal Summary
 
 - 🔭 I’m currently making games at [Aquinas Games](https://aquinasgames.ca/) ([@AquinasGames](https://github.com/AquinasGames))
