@@ -1,8 +1,7 @@
-### Howdy! I'm Michael Bassili, aka LaputanMachines 👋
+### :man: Personal Summary
 
-## I'm a Programmer, Drummer, Writer, and Game Developer
-
-- 🔭 I’m currently making games at [Aquinas Games](https://aquinasgames.ca/)
+- 🔭 I’m currently making games at [Aquinas Games](https://aquinasgames.ca/) ([@AquinasGames](https://github.com/AquinasGames))
+- :computer: I work a day job at [WISI America](https://wisi.tv/) ([@IncaNetworks](https://github.com/incanetworks))
 - 🌱 I’m currently learning [Godot](https://godotengine.org/) and [Golang](https://golang.org/)
 - 👯 I’m looking to collaborate on game development
 - 💬 Ask me about city planning and/or pedestrian-friendly infrastructure
