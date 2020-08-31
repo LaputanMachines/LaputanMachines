@@ -27,4 +27,4 @@ Howdy! My name is Michael, and I'm many things. I work a day-job as a programmer
 
 ---
 
-You can reach me via email. I also have a LinkedIn profile for networking-purposes, but I rarely interact with it. You can see some of the code I've written in GitHub. My Twitter account is reserved for journalism purposes. However, I won't object if you want to follow me... It's mostly journalism promo. 
+You can reach me via email. I also have a LinkedIn profile for networking-purposes, but I rarely interact with it. You can see some of the code I've written in GitHub. My Twitter account is reserved for journalism. However, I won't object if you want to follow me... It's mostly journalism promo. 
