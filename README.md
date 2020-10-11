@@ -16,7 +16,7 @@ Howdy! My name is Michael, and I'm many things. I work a day-job as a programmer
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Screenshot Saturday:10-10-2020)](https://aquinasgames.ca/blog/screenshot-saturday-10-10-2020)
+- [Screenshot Saturday: 10-10-2020](https://aquinasgames.ca/blog/screenshot-saturday-10-10-2020)
 - [Installing Custom Proton Builds On Linux](https://bassi.li/blog/installing-custom-proton-builds)
 - [Test Driven Game Development Tips](https://aquinasgames.ca/blog/test-driven-game-development)
 - [Common Python Design Patterns Vol.1](https://bassi.li/blog/python-design-patterns-1)
