@@ -17,10 +17,10 @@ Howdy! My name is Michael, and I'm many things. I work a day-job as a programmer
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [Installing Custom Proton Builds On Linux](https://bassi.li/blog/installing-custom-proton-builds)
-- [Test Driven Game Development Tips](https://aquinasgames.ca/blog/test-driven-game-development)
 - [Common Python Design Patterns Vol.1](https://bassi.li/blog/python-design-patterns-1)
 - [Fighting Game Mega Mix Vol.1](https://bassi.li/blog/fighting-game-mega-mix-1)
 - [Simulating Dynamic Web Interactions With Jekyll, TravisCI, and Cron Jobs](https://bassi.li/blog/simulating-dynamic-web-interactions)
+- [The Joys Of Game Photography](https://bassi.li/blog/video-game-photography)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- <img align="left" alt="LaputanMachines' Github Stats" src="https://github-readme-stats.vercel.app/api?username=LaputanMachines&show_icons=true&hide_border=true" /> -->
