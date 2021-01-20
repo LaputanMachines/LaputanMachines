@@ -6,10 +6,6 @@ Howdy! My name is Michael, and I'm many things. I work a day-job as a programmer
 
 - I’m currently making games at [Aquinas Games](https://aquinasgames.ca/) ([@AquinasGames](https://github.com/AquinasGames))
 - I work a day job at [WISI America](https://wisi.tv/) ([@IncaNetworks](https://github.com/incanetworks))
-- I’m currently learning [Godot](https://godotengine.org/) and [Golang](https://golang.org/)
-- I’m looking to collaborate on game development
-- Ask me about city planning and/or pedestrian-friendly infrastructure
-- Fun fact: I taught myself how to play the drums 1 month before performing professionally 
 - How to reach me: Email (michael@bassi.li) or through social media
 
 ---
