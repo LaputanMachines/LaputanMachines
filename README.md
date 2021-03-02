@@ -2,14 +2,6 @@ Howdy! My name is Michael, and I'm many things. I work a day-job as a programmer
 
 ---
 
-### Personal Summary
-
-- I’m currently making games at [Aquinas Games](https://aquinasgames.ca/) ([@AquinasGames](https://github.com/AquinasGames))
-- I work a day job at [WISI America](https://wisi.tv/) ([@IncaNetworks](https://github.com/incanetworks))
-- How to reach me: Email (michael@bassi.li) or through social media
-
----
-
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [Test Driven Game Development](https://bassi.li/blog/test-driven-game-development)
@@ -18,8 +10,6 @@ Howdy! My name is Michael, and I'm many things. I work a day-job as a programmer
 - [Fighting Game Mega Mix Vol.1](https://bassi.li/blog/fighting-game-mega-mix-1)
 - [Simulating Dynamic Web Interactions With Jekyll, TravisCI, and Cron Jobs](https://bassi.li/blog/simulating-dynamic-web-interactions)
 <!-- BLOG-POST-LIST:END -->
-
-<!-- <img align="left" alt="LaputanMachines' Github Stats" src="https://github-readme-stats.vercel.app/api?username=LaputanMachines&show_icons=true&hide_border=true" /> -->
 
 ---
 
