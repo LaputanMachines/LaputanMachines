@@ -5,6 +5,10 @@ Howdy! My name is Michael, and I'm many things. I work a day-job as a programmer
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [Devlog 1: Level and Enemy Design](https://aquinasgames.ca/TwinstickArcade/Devlog-1)
+- [Test Driven Game Development](https://bassi.li/blog/test-driven-game-development)
+- [Installing Custom Proton Builds On Linux](https://bassi.li/blog/installing-custom-proton-builds)
+- [Common Python Design Patterns Vol.1](https://bassi.li/blog/python-design-patterns-1)
+- [Fighting Game Mega Mix Vol.1](https://bassi.li/blog/fighting-game-mega-mix-1)
 <!-- BLOG-POST-LIST:END -->
 
 ---
