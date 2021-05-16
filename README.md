@@ -2,7 +2,7 @@
 
 <h1 align="center">Howdy 👋 I'm Michael</h1>
 
-### <div align="center">I do devops 🖨️ for a living while making video games 🎮 on the side.</center>
+### <div align="center">I do devops stuff 🖨️ for a living while making video games 🎮 on the side.</center>
 
 <br>
 
