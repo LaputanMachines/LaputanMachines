@@ -1,4 +1,4 @@
-<h2> Hi, I'm Michael Bassili <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> I Write Code For Money</h2>
+<h2> Hi, I'm Michael Bassili <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> I Develop Software For Money</h2>
 
 ```python
 #!/usr/bin/env python3
